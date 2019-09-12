@@ -1,0 +1,88 @@
+{
+	margin: 0;
+	padding: 0;
+}
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+} 
+.navbar-brand img
+{
+	height: 60px;
+	padding-left: 0px;
+}
+.navbar-nav li
+{
+	padding:0 10px;
+}
+.navbar-nav li a
+{
+	float: right;
+	text-align: left;
+}
+#nav-bar ul li a:hover
+{
+	color: ;
+}
+.navbar 
+{
+	background: ;
+}
+.navbar-toggler
+{
+	border:none!important;
+}
+.nav-link
+{
+	color:;
+	font-weight: 600;
+	font-size:16px; 
+}
+#slider 
+{
+	width: 100%;
+}
+.carousel-caption
+{
+	top: 60%;
+	transform: translateY(-50);
+	bottom: initial!important;
+	
+}
+.carousel-caption h5
+{
+	font-size: 42px;
+}
+#about
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #555;
+}
+#about .btn
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.about-contant
+{
+	padding-top: 20px;
+}
+#services
+{
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(j.png);
+	background-size: cover;
+	background-position: center;
+	color: #efefef !important;
+	background-attachment: fixed;
+	padding-top: 50px; 
+	padding-bottom: 50px;
+}
+#services h1
+{
+	text-align: center;
+	color: #efefef !important;
+	padding-bottom: 10px;
+}
